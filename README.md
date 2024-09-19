@@ -1,1 +1,1 @@
-# vpc1
+# Visión por Computadora I
